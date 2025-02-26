@@ -6,7 +6,7 @@
 - TF-IDF vectorization for feature extraction
 - Trained ML model for sentiment classification
 - Web app interface for user-friendly predictions
-🛠️ ### Tech Stack
+## Tech Stack
 - Programming Language:python
 - ML Libraries: Scikit-learn, NLTK, Pandas, NumPy
 - Web Framework: Flask / Streamlit (if applicable)
